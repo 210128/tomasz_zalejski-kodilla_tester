@@ -1,4 +1,4 @@
-public class FirstClass {
+public class FirstClass {//Pls format CTRL+ATL+F
     public static void main(String[] args) {
         Notebook notebook = new Notebook(600, 1001, 2018);
         System.out.println(notebook.weight + notebook.price);

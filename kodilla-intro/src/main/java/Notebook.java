@@ -1,4 +1,4 @@
-public class Notebook {
+public class Notebook {//TODO: pls format
     int weight;
     int price;
     int year;
