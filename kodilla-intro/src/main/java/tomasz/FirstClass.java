@@ -25,5 +25,13 @@ public class FirstClass {
         notebook.checkYear();
         heavyNotebook.checkYear();
         oldNotebook.checkYear();
+
+        LeapYear nowyRok = new LeapYear(2020);
+        LeapYear millenium = new LeapYear(2000);
+        LeapYear future = new LeapYear(2300);
+
+        System.out.println(nowyRok.checkLeapYear());
+        System.out.println(millenium.checkLeapYear());
+        System.out.println(future.checkLeapYear());
     }
 }

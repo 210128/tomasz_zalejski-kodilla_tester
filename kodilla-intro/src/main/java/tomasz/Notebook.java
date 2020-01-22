@@ -1,6 +1,6 @@
 package tomasz;
 
-public class Notebook {//TODO: pls format
+public class Notebook {
     int weight;
     public int price;
     int year;
