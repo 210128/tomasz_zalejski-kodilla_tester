@@ -11,6 +11,11 @@ public class Loops {
     }
 
     public static void main(String[] args) {
+        Loops numer = new Loops();
+        int[] numery = new int[] {3, 5, 7, 1, 9, 31, 65, 32, 76};
+    System.out.println("Suma liczb w tablicy wynosi: "+ numer.sumNumbers(numery));
+
+
 
         String[] names = new String[]{"Zygfryd", "Gwidon", "Florentyna"};
         for (int i = 0; i < names.length; i++) {

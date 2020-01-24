@@ -2,17 +2,17 @@ package tomasz;
 
 public class LeapYear {
 
-    int leapYear;
+    int year;
 
-    public LeapYear(int leapYear) {
-        this.leapYear = leapYear;
+    public LeapYear(int year) {
+
+        this.year = year;
     }
 
-    public boolean checkLeapYear() {
-        if ((leapYear % 400 == 0) || (leapYear % 4 == 0) && (leapYear % 100 != 0)) {
-            return true;
-        } else
-            return false;
+    public boolean isLeap() {
+
+        return (year % 400 == 0) || (year % 4 == 0) && (year % 100 != 0);
+
     }
+
 }
-

@@ -34,8 +34,8 @@ public class RandomNumbers {
 
     public static void main(String[] args) {
         RandomNumbers numer = new RandomNumbers();
-        System.out.println("Najmniejszą wylosowana liczba to: " + numer.getMinRandomNumber(50));
-        System.out.println("Największa wylosowana liczba to: " + numer.getMaxRandomNumber(50));
+        System.out.println("Najmniejszą wylosowana liczba to: " + numer.getMinRandomNumber(5000));
+        System.out.println("Największa wylosowana liczba to: " + numer.getMaxRandomNumber(5000));
     }
 
 }
