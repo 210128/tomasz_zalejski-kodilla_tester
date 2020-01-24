@@ -30,6 +30,10 @@ public class FirstClass {
         LeapYear millenium = new LeapYear(2000);
         LeapYear future = new LeapYear(2300);
 
+        /*TODO: REVIEW kdrzazga
+        *  Pls provide a better message
+        *  When user receives 'true true false' on the output he
+        *  doesn't know what it refers to*/
         System.out.println(nowyRok.checkLeapYear());
         System.out.println(millenium.checkLeapYear());
         System.out.println(future.checkLeapYear());
