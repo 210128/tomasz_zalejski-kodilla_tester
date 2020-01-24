@@ -4,11 +4,16 @@ import java.util.*;
 
 public class RandomNumbers {
 
+    /*TODO Review kdrzazga
+    * Class should contain 3 methods - generating a random number
+    * should be in a separate method
+    * */
+
     public int getMinRandomNumber(int max) {
         Random random = new Random();
         int min = 30;
         int sum = 0;
-        while (sum < max) {
+        while (sum < max) {//TODO Review kdrzazga: this should end when sum exceeds 5000 not 50
             int temp = random.nextInt(30);
             sum = sum + temp;
             if (min > temp) {
