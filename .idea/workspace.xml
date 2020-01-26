@@ -2,34 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ca5f81d-5e0a-4af9-bd61-511850fd8878" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/inheritance/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/inheritance/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/inheritance/Convertible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/inheritance/homework/MacOs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/inheritance/homework/OperatingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/inheritance/homework/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/inheritance/homework/Windows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -59,21 +48,42 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="833" />
-    <option name="width" value="1087" />
-    <option name="height" value="1032" />
+  <component name="ProjectId" id="1Ww3TxjmeNDNiUL4wQ6YUVuNIPs" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.RandomNumbers">
+  <component name="RunManager" selected="Application.Run">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.inheritance.Application" />
+      <module name="kodilla-course.kodilla-basic-tests.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kodilla.inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FirstClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tomasz.FirstClass" />
       <module name="kodilla-course.kodilla-intro.main" />
@@ -87,38 +97,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firstclass.FirstClass" />
-      <module name="kodilla-course.kodilla-intro.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="firstclass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.Loops" />
-      <module name="kodilla-course.kodilla-intro.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RandomNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tomasz.RandomNumbers" />
       <module name="kodilla-course.kodilla-intro.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="tomasz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.inheritance.homework.Run" />
+      <module name="kodilla-course.kodilla-basic-tests.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kodilla.inheritance.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Run" />
+        <item itemvalue="Application.Application" />
         <item itemvalue="Application.RandomNumbers" />
         <item itemvalue="Application.User" />
         <item itemvalue="Application.FirstClass (1)" />
-        <item itemvalue="Application.FirstClass" />
-        <item itemvalue="Application.Loops" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579848211448</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="idea fix">
+      <created>1579946642935</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579946642935</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -197,6 +201,41 @@
     <MESSAGE value="Review" />
     <MESSAGE value="LeapYear //Review" />
     <MESSAGE value="RandomNumbers //Review" />
-    <option name="LAST_COMMIT_MESSAGE" value="RandomNumbers //Review" />
+    <MESSAGE value="idea fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="idea fix" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="614" y="115" key="CommitChangelistDialog2" timestamp="1579946642371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="614" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579946642371" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1580064701587">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580064701587" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1580064701587">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580064701587" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1580064701587">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580064701587" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1580064701587">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580064701587" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1579946646012">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579946646012" />
+    <state x="342" y="133" key="new project wizard" timestamp="1580052149036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="133" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1580052149036" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1580063386528">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580063386528" />
   </component>
 </project>
