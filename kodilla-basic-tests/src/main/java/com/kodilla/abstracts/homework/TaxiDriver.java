@@ -7,4 +7,10 @@ public class TaxiDriver extends Job {
         super(salary, responsibilities);
     }
 
+    @Override
+    public void displayResponsibilities() {
+    System.out.println(getResponsibilities());
+    }
+
+
 }
