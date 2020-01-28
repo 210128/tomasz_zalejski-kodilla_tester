@@ -9,7 +9,7 @@ public class Accountant extends Job {
 
     @Override
     public void displayResponsibilities() {
-        System.out.println(getResponsibilities());
+        System.out.println(getResponsibilities());//TODO: review kdrzazga: Don't Repeat Yourself. Pls move to super class
     }
 
 
