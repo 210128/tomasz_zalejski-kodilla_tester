@@ -17,7 +17,9 @@ public abstract class Job  {
     public String getResponsibilities() {
         return responsibilities;
     }
-    public abstract void displayResponsibilities();
+    public  void displayResponsibilities(){
+        System.out.println(getResponsibilities());
+    }
 
 
 }

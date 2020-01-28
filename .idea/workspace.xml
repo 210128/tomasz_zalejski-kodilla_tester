@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ca5f81d-5e0a-4af9-bd61-511850fd8878" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/basic_assertion/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/basic_assertion/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/basic_assertion/ResultChecker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +64,7 @@
       <recent name="com.kodilla.abstracts.homework" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Application (2)">
+  <component name="RunManager" selected="Application.Person">
     <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kodilla.abstracts.Application" />
       <module name="kodilla-course.kodilla-basic-tests.main" />
@@ -148,8 +145,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Application (2)" />
         <item itemvalue="Application.Person" />
+        <item itemvalue="Application.Application (2)" />
         <item itemvalue="Application.Application (1)" />
         <item itemvalue="Application.Run" />
         <item itemvalue="Application.Application" />
@@ -223,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580161176348</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="homework 3.7">
+      <created>1580242551296</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1580242551296</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -244,37 +248,38 @@
     <MESSAGE value=" add file kodilla-basic-tests/build.gradle" />
     <MESSAGE value="homework 3.5.1" />
     <MESSAGE value="homework 3.5.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 3.5.2" />
+    <MESSAGE value="homework 3.7" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 3.7" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1580146330639">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580146330639" />
-    <state x="614" y="115" key="CommitChangelistDialog2" timestamp="1580161175235">
+    <state x="614" y="115" key="CommitChangelistDialog2" timestamp="1580242550362">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="614" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580161175235" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1580242464916">
+    <state x="614" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580242550362" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1580249257399">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580242464916" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1580242464916">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580249257399" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1580249257399">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580242464916" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1580242464916">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580249257399" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1580249257399">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580242464916" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1580242464916">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580249257399" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1580249257399">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580242464916" />
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1580161179137">
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580249257399" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1580242553700">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580161179137" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580242553700" />
     <state x="342" y="133" key="new project wizard" timestamp="1580052149036">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
