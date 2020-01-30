@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="com.kodilla.kodilla-course.kodilla-basic-tests.main" target="1.8" />
+      <module name="com.kodilla.kodilla-course.kodilla-basic-tests.test" target="1.8" />
+      <module name="com.kodilla.kodilla-course.main" target="1.8" />
+      <module name="com.kodilla.kodilla-course.test" target="1.8" />
+      <module name="kodilla-course.kodilla-basic-tests.main" target="1.8" />
+      <module name="kodilla-course.kodilla-basic-tests.test" target="1.8" />
+      <module name="kodilla-course.kodilla-intro.main" target="1.8" />
+      <module name="kodilla-course.kodilla-intro.test" target="1.8" />
+      <module name="kodilla-course.main" target="1.8" />
+      <module name="kodilla-course.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="HaskellBuildOptions">
+    <ghcPath>C:\Program Files\Haskell Platform8.4.3\bin\ghc.exe</ghcPath>
+    <cabalPath>C:\Program Files\Haskell Platform8.4.3\lib\extralibs\bin\cabal.exe</cabalPath>
+  </component>
+</project>
