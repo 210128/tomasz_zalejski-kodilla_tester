@@ -1,7 +1,7 @@
 package com.kodilla.abstracts.homework;
 
 public class Rectangle extends Shape {
-    double sideB;
+    final double sideB;
 
     public Rectangle(double sideA, double sideB) {
         super(sideA);

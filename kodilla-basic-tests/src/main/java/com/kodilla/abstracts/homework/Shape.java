@@ -1,7 +1,7 @@
 package com.kodilla.abstracts.homework;
 
 public abstract class Shape {
-    private double sideA;
+    private final double sideA;
 
 
     public Shape(double sideA) {

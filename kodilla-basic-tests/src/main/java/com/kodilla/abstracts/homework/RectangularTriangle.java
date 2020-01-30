@@ -1,8 +1,8 @@
 package com.kodilla.abstracts.homework;
 
 public class RectangularTriangle extends Shape {
-    double sideB;
-    double sideC;
+    final double sideB;
+    final double sideC;
 
     public RectangularTriangle(double sideA, double sideB, double sideC) {
         super(sideA);
