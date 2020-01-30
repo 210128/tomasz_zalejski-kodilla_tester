@@ -33,5 +33,6 @@ public class FirstClass {
         System.out.println("Test: " + nowyRok.year + " is leap: "+ nowyRok.isLeap());
         System.out.println("Test: " + millenium.year + " is leap: "+ millenium.isLeap());
         System.out.println("Test: " + future.year + " is leap: "+ future.isLeap());
+
     }
 }
