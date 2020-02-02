@@ -8,6 +8,8 @@
       <module name="com.kodilla.kodilla-course.test" target="1.8" />
       <module name="kodilla-course.kodilla-basic-tests.main" target="1.8" />
       <module name="kodilla-course.kodilla-basic-tests.test" target="1.8" />
+      <module name="kodilla-course.kodilla-collections.main" target="1.8" />
+      <module name="kodilla-course.kodilla-collections.test" target="1.8" />
       <module name="kodilla-course.kodilla-intro.main" target="1.8" />
       <module name="kodilla-course.kodilla-intro.test" target="1.8" />
       <module name="kodilla-course.main" target="1.8" />
