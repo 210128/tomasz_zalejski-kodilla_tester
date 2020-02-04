@@ -8,6 +8,7 @@ import interfaces.Triangle;
 import java.util.Random;
 
 public class ShapeApplication {
+
     public static void main(String[] args) {
         Shape[] shapes = new Shape[5];
         for ( int n = 0; n<shapes.length; n++)

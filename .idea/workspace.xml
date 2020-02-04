@@ -5,30 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ca5f81d-5e0a-4af9-bd61-511850fd8878" name="Default Changelist" comment="homework 4.4 Stamps">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/sets/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/sets/OrderApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/sets/homework/Stamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/sets/homework/StampsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/maps/BasicMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/maps/complex/ComplexMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/maps/complex/Grades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/maps/complex/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/arrays/ShapeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/arrays/ShapeApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/classes/" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/kodilla-basic-tests/.gradle/" />
-    <ignored path="$PROJECT_DIR$/kodilla-basic-tests/build/" />
-    <ignored path="$PROJECT_DIR$/kodilla-basic-tests/out/" />
-    <ignored path="$PROJECT_DIR$/kodilla-collections/.gradle/" />
-    <ignored path="$PROJECT_DIR$/kodilla-collections/build/" />
-    <ignored path="$PROJECT_DIR$/kodilla-collections/out/" />
-    <ignored path="$PROJECT_DIR$/kodilla-intro/.gradle/" />
-    <ignored path="$PROJECT_DIR$/kodilla-intro/build/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,74 +56,6 @@
       </state>
     </system>
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/sets/Order.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
-              <folding>
-                <element signature="e#391#392#0" expanded="true" />
-                <element signature="e#425#426#0" expanded="true" />
-                <element signature="e#463#464#0" expanded="true" />
-                <element signature="e#497#498#0" expanded="true" />
-                <element signature="e#532#533#0" expanded="true" />
-                <element signature="e#563#564#0" expanded="true" />
-                <element signature="e#1022#1023#0" expanded="true" />
-                <element signature="e#1093#1094#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/sets/homework/Stamp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-              <folding>
-                <element signature="e#400#401#0" expanded="true" />
-                <element signature="e#427#428#0" expanded="true" />
-                <element signature="e#461#462#0" expanded="true" />
-                <element signature="e#491#492#0" expanded="true" />
-                <element signature="e#523#524#0" expanded="true" />
-                <element signature="e#551#552#0" expanded="true" />
-                <element signature="e#583#584#0" expanded="true" />
-                <element signature="e#611#612#0" expanded="true" />
-                <element signature="e#1101#1102#0" expanded="true" />
-                <element signature="e#1165#1166#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/sets/OrderApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/sets/homework/StampsApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -148,132 +68,15 @@
     <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/sets/Order.java" />
-        <option value="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/sets/homework/Stamp.java" />
-        <option value="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/sets/OrderApplication.java" />
-        <option value="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/sets/homework/StampsApplication.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="40" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
-  </component>
   <component name="ProjectId" id="1Ww3TxjmeNDNiUL4wQ6YUVuNIPs" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <flattenPackages ProjectPane="true" />
-      <hideEmptyPackages ProjectPane="true" />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tomasz_zalejski-kodilla_tester" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tomasz_zalejski-kodilla_tester" type="462c0819:PsiDirectoryNode" />
-              <item name="kodilla-collections" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tomasz_zalejski-kodilla_tester" type="462c0819:PsiDirectoryNode" />
-              <item name="kodilla-collections" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tomasz_zalejski-kodilla_tester" type="462c0819:PsiDirectoryNode" />
-              <item name="kodilla-collections" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tomasz_zalejski-kodilla_tester" type="462c0819:PsiDirectoryNode" />
-              <item name="kodilla-collections" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tomasz_zalejski-kodilla_tester" type="462c0819:PsiDirectoryNode" />
-              <item name="kodilla-collections" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="arrays" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tomasz_zalejski-kodilla_tester" type="462c0819:PsiDirectoryNode" />
-              <item name="kodilla-collections" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tomasz_zalejski-kodilla_tester" type="462c0819:PsiDirectoryNode" />
-              <item name="kodilla-collections" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lists" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tomasz_zalejski-kodilla_tester" type="462c0819:PsiDirectoryNode" />
-              <item name="kodilla-collections" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tomasz_zalejski-kodilla_tester" type="462c0819:PsiDirectoryNode" />
-              <item name="kodilla-collections" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tomasz_zalejski-kodilla_tester" type="462c0819:PsiDirectoryNode" />
-              <item name="kodilla-collections" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
-  </component>
   <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
@@ -289,32 +92,23 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.kodilla.abstracts.homework" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.kodilla.collections.adv.maps.complex" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.StampsApplication">
-    <configuration name="CarsListApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kodilla.collections.lists.homework.CarsListApplication" />
-      <module name="com.kodilla.kodilla-collections.main" />
+  <component name="RunManager" selected="Application.ComplexMapExample">
+    <configuration name="BasicMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.collections.adv.maps.BasicMapExample" />
+      <module name="kodilla-course.kodilla-collections-advanced.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kodilla.collections.lists.homework.*" />
+          <option name="PATTERN" value="com.kodilla.collections.adv.maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -322,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GeneralShapesListApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kodilla.collections.lists.GeneralShapesListApplication" />
-      <module name="kodilla-course.kodilla-collections.main" />
+    <configuration name="ComplexMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.collections.adv.maps.complex.ComplexMapExample" />
+      <module name="kodilla-course.kodilla-collections-advanced.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kodilla.collections.lists.*" />
+          <option name="PATTERN" value="com.kodilla.collections.adv.maps.complex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -335,9 +129,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="OrderApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kodilla.collections.sets.OrderApplication" />
-      <module name="com.kodilla.kodilla-collections.main" />
+      <module name="com.kodilla.kodilla-course.kodilla-collections.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.kodilla.collections.sets.*" />
@@ -348,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StampsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kodilla.collections.sets.homework.StampsApplication" />
-      <module name="com.kodilla.kodilla-collections.main" />
+    <configuration name="ShapeApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.collections.arrays.ShapeApplication" />
+      <module name="com.kodilla.kodilla-course.kodilla-collections.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kodilla.collections.sets.homework.*" />
+          <option name="PATTERN" value="com.kodilla.collections.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -361,30 +155,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/kodilla/tomasz_zalejski-kodilla_tester/kodilla-collections/build.gradle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/kodilla-collections/build.gradle" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
+    <configuration name="ShapesListApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.collections.lists.ShapesListApplication" />
+      <module name="com.kodilla.kodilla-course.kodilla-collections.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kodilla.collections.lists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StampsApplication" />
-        <item itemvalue="Application.OrderApplication" />
-        <item itemvalue="Application.CarsListApplication" />
-        <item itemvalue="Gradle.C:/kodilla/tomasz_zalejski-kodilla_tester/kodilla-collections/build.gradle" />
-        <item itemvalue="Application.GeneralShapesListApplication" />
+        <item itemvalue="Application.ComplexMapExample" />
+        <item itemvalue="Application.BasicMapExample" />
+        <item itemvalue="Application.ShapeApplication" />
+        <item itemvalue="Application.ShapesListApplication" />
+        <item itemvalue="Application.OrderApplication (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -519,69 +309,6 @@
     <option name="localTasksCounter" value="16" />
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32949308" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32949308" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.36635944" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32987553" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2966805" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Gradle" weight="0.23560767" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32949308" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32949308" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="3" weight="0.36635944" />
-      <window_info anchor="bottom" id="Messages" order="4" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.2966805" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Gradle" order="2" visible="true" weight="0.23560767" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-    </layout-to-restore>
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Review" />
     <MESSAGE value="LeapYear //Review" />
@@ -621,10 +348,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="727" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580303216161" />
-    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1580766478345">
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1580856027316">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580766478345" />
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580856027316" />
+    <state x="808" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580839178459">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="808" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580839178459" />
+    <state x="516" y="437" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1580846227004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="516" y="437" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580846227004" />
     <state x="690" y="268" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1580554075350">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -641,38 +376,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580552066628" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1580769142409">
+    <state width="938" height="282" key="GridCell.Tab.0.bottom" timestamp="1580856624657">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580769142409" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1580769142409">
+    <state width="938" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580856624657" />
+    <state width="938" height="282" key="GridCell.Tab.0.center" timestamp="1580856624656">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580769142409" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1580769142408">
+    <state width="938" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580856624656" />
+    <state width="938" height="282" key="GridCell.Tab.0.left" timestamp="1580856624656">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580769142408" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1580769142409">
+    <state width="938" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580856624656" />
+    <state width="938" height="282" key="GridCell.Tab.0.right" timestamp="1580856624656">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580769142409" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1580603426594">
+    <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580856624656" />
+    <state width="938" height="348" key="GridCell.Tab.1.bottom" timestamp="1580845262490">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580603426594" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1580603426594">
+    <state width="938" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580845262490" />
+    <state width="938" height="348" key="GridCell.Tab.1.center" timestamp="1580845262489">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580603426594" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1580603426594">
+    <state width="938" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580845262489" />
+    <state width="938" height="348" key="GridCell.Tab.1.left" timestamp="1580845262489">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580603426594" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1580603426594">
+    <state width="938" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580845262489" />
+    <state width="938" height="348" key="GridCell.Tab.1.right" timestamp="1580845262489">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580603426594" />
+    <state width="938" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580845262489" />
     <state x="184" y="92" key="MergeDialog" timestamp="1580249611526">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -685,10 +420,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="593" y="232" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580312665055" />
-    <state x="461" y="163" key="SettingsEditor" timestamp="1580312575528">
+    <state x="461" y="163" key="SettingsEditor" timestamp="1580839089919">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580312575528" />
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580839089919" />
     <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1580758260634">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -705,10 +440,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580249531298" />
-    <state x="342" y="133" key="new project wizard" timestamp="1580660400994">
+    <state x="342" y="133" key="new project wizard" timestamp="1580845223747">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="342" y="133" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1580660400994" />
+    <state x="342" y="133" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1580845223747" />
     <state x="702" y="140" key="refactoring.ChangeSignatureDialog" timestamp="1580067557609">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -718,77 +453,21 @@
     </state>
     <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580404740347" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="square.getArea() &lt; 20" language="JAVA" />
+          <url>file://$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/lists/ShapesListApplication.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/kodilla_course$PrimeCheckerTestSuite.ic" NAME="PrimeCheckerTestSuite Coverage Results" MODIFIED="1580383973302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.kodilla.basic_assertion.*</FILTER>
     </SUITE>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/arrays/homework/CarsApplication.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/lists/homework/CarsListApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/sets/homework/StampsApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/sets/OrderApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/sets/homework/Stamp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-          <folding>
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="e#611#612#0" expanded="true" />
-            <element signature="e#1101#1102#0" expanded="true" />
-            <element signature="e#1165#1166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/sets/Order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
-          <folding>
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#563#564#0" expanded="true" />
-            <element signature="e#1022#1023#0" expanded="true" />
-            <element signature="e#1093#1094#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
