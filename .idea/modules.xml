@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-basic-tests/com.kodilla.kodilla-basic-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-basic-tests/com.kodilla.kodilla-basic-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-basic-tests/com.kodilla.kodilla-basic-tests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-basic-tests/com.kodilla.kodilla-basic-tests.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-basic-tests/com.kodilla.kodilla-basic-tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-basic-tests/com.kodilla.kodilla-basic-tests.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-collections/com.kodilla.kodilla-collections.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-collections/com.kodilla.kodilla-collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-collections/com.kodilla.kodilla-collections.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-collections/com.kodilla.kodilla-collections.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-collections/com.kodilla.kodilla-collections.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-collections/com.kodilla.kodilla-collections.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-course.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-course.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-basic-tests/com.kodilla.kodilla-course.kodilla-basic-tests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-basic-tests/com.kodilla.kodilla-course.kodilla-basic-tests.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-basic-tests/com.kodilla.kodilla-course.kodilla-basic-tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-basic-tests/com.kodilla.kodilla-course.kodilla-basic-tests.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-course.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-course.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-course.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-course.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-course.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-course.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-course.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-course.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-collections.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-course.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-course.iml" />
@@ -15,8 +24,10 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-collections/kodilla-course.kodilla-collections.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-collections/kodilla-course.kodilla-collections.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-collections/kodilla-course.kodilla-collections.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-collections/kodilla-course.kodilla-collections.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-intro/kodilla-course.kodilla-intro.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-intro/kodilla-course.kodilla-intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-intro/kodilla-course.kodilla-intro.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-intro/kodilla-course.kodilla-intro.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-course.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-course.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-course.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-course.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tomasz_zalejski-kodilla_tester.iml" filepath="$PROJECT_DIR$/.idea/tomasz_zalejski-kodilla_tester.iml" />
     </modules>
   </component>
 </project>
