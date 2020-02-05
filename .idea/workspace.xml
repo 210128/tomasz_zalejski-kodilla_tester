@@ -4,18 +4,11 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ca5f81d-5e0a-4af9-bd61-511850fd8878" name="Default Changelist" comment="homework 4.4 Stamps">
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/maps/BasicMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/maps/complex/ComplexMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/maps/complex/Grades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/maps/complex/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="4ca5f81d-5e0a-4af9-bd61-511850fd8878" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/maps/homework/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/maps/homework/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/maps/homework/SchoolDirectory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/arrays/ShapeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/arrays/ShapeApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,17 +85,18 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.kodilla.abstracts.homework" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.kodilla.collections.adv.maps.homework" />
       <recent name="com.kodilla.collections.adv.maps.complex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ComplexMapExample">
+  <component name="RunManager" selected="Application.SchoolDirectory">
     <configuration name="BasicMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kodilla.collections.adv.maps.BasicMapExample" />
       <module name="kodilla-course.kodilla-collections-advanced.main" />
@@ -129,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kodilla.collections.sets.OrderApplication" />
-      <module name="com.kodilla.kodilla-course.kodilla-collections.main" />
+    <configuration name="SchoolDirectory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.collections.adv.maps.homework.SchoolDirectory" />
+      <module name="kodilla-course.kodilla-collections-advanced.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kodilla.collections.sets.*" />
+          <option name="PATTERN" value="com.kodilla.collections.adv.maps.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SchoolDirectory" />
         <item itemvalue="Application.ComplexMapExample" />
         <item itemvalue="Application.BasicMapExample" />
         <item itemvalue="Application.ShapeApplication" />
         <item itemvalue="Application.ShapesListApplication" />
-        <item itemvalue="Application.OrderApplication (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580758257471</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="exercise 5.2">
+      <created>1580856825515</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1580856825515</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -325,7 +326,8 @@
     <MESSAGE value="homework 4.1 Car Race" />
     <MESSAGE value="homework 4.2 CarUtils" />
     <MESSAGE value="homework 4.4 Stamps" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 4.4 Stamps" />
+    <MESSAGE value="exercise 5.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise 5.2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="179" key="#Inspections" timestamp="1580309354027">
@@ -348,10 +350,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="727" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580303216161" />
-    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1580856027316">
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1580933504035">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580856027316" />
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580933504035" />
     <state x="808" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580839178459">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -360,6 +362,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="516" y="437" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580846227004" />
+    <state x="711" y="12" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1580933422488">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="711" y="12" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580933422488" />
     <state x="690" y="268" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1580554075350">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -368,30 +374,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="707" y="358" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1580404276256" />
-    <state x="871" y="140" key="CommitChangelistDialog2" timestamp="1580758256324">
+    <state x="871" y="140" key="CommitChangelistDialog2" timestamp="1580856824049">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="871" y="140" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580758256324" />
+    <state x="871" y="140" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580856824049" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1580552066628">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580552066628" />
-    <state width="938" height="282" key="GridCell.Tab.0.bottom" timestamp="1580856624657">
+    <state width="938" height="282" key="GridCell.Tab.0.bottom" timestamp="1580934370866">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580856624657" />
-    <state width="938" height="282" key="GridCell.Tab.0.center" timestamp="1580856624656">
+    <state width="938" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580934370866" />
+    <state width="938" height="282" key="GridCell.Tab.0.center" timestamp="1580934370866">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580856624656" />
-    <state width="938" height="282" key="GridCell.Tab.0.left" timestamp="1580856624656">
+    <state width="938" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580934370866" />
+    <state width="938" height="282" key="GridCell.Tab.0.left" timestamp="1580934370866">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580856624656" />
-    <state width="938" height="282" key="GridCell.Tab.0.right" timestamp="1580856624656">
+    <state width="938" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580934370866" />
+    <state width="938" height="282" key="GridCell.Tab.0.right" timestamp="1580934370866">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580856624656" />
+    <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580934370866" />
     <state width="938" height="348" key="GridCell.Tab.1.bottom" timestamp="1580845262490">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -420,14 +426,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="593" y="232" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580312665055" />
-    <state x="461" y="163" key="SettingsEditor" timestamp="1580839089919">
+    <state x="461" y="163" key="SettingsEditor" timestamp="1580920192858">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580839089919" />
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1580758260634">
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580920192858" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1580856827842">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580758260634" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580856827842" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1580552066628">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -452,6 +458,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580404740347" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1580933758787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580933758787" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
