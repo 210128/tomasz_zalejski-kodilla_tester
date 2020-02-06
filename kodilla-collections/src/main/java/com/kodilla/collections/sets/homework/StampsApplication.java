@@ -8,14 +8,14 @@ public class StampsApplication {
 
         Set<Stamp> stamps = new HashSet<>();
 
-        stamps.add(new Stamp("Fauna: Honeybee", "No", 250, 200));
-        stamps.add(new Stamp("Fauna: Wood ant", "Yes", 250, 200));
-        stamps.add(new Stamp("Fauna: European cat", "Yes", 150, 300));
-        stamps.add(new Stamp("Fauna: Siamese cat", "No", 150, 300));
-        stamps.add(new Stamp("Cities: Wilno", "Yes", 200, 300));
-        stamps.add(new Stamp("Cities: Warsaw", "No", 200, 300));
-        stamps.add(new Stamp("Cities: Lublin", "No", 200, 300));
-        stamps.add(new Stamp("Fauna: Wood ant", "Yes", 250, 200));
+        stamps.add(new Stamp("Fauna: Honeybee", false, 250, 200));
+        stamps.add(new Stamp("Fauna: Wood ant", true, 250, 200));
+        stamps.add(new Stamp("Fauna: European cat", true, 150, 300));
+        stamps.add(new Stamp("Fauna: Siamese cat", false, 150, 300));
+        stamps.add(new Stamp("Cities: Wilno", true, 200, 300));
+        stamps.add(new Stamp("Cities: Warsaw", false, 200, 300));
+        stamps.add(new Stamp("Cities: Lublin", false, 200, 300));
+        stamps.add(new Stamp("Fauna: Wood ant", true, 250, 200));
 
         System.out.println(stamps.size());
         for (Stamp stamp : stamps)

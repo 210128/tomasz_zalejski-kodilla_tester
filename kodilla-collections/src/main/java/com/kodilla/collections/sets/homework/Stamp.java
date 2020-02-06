@@ -4,22 +4,22 @@ import java.util.Objects;
 
 public class Stamp {
     private String name;
-    private String stamped; /*TODO: Review kdrzazga: Should be boolean*/
+    private boolean stamped;
     private double width;
-    private double hight;
+    private double height;
 
-    public Stamp(String name, String stamped, double width, double hight) {
+    public Stamp(String name, boolean stamped, double width, double height) {
         this.name = name;
         this.stamped = stamped;
         this.width = width;
-        this.hight = hight;
+        this.height = height;
     }
 
     public String getName() {
         return name;
     }
 
-    public String getStamped() {
+    public boolean getStamped() {
         return stamped;
     }
 
@@ -27,8 +27,8 @@ public class Stamp {
         return width;
     }
 
-    public double getHight() {
-        return hight;
+    public double getHeight() {
+        return height;
     }
 
     @Override
@@ -37,14 +37,14 @@ public class Stamp {
         if (o == null || getClass() != o.getClass()) return false;
         Stamp stamp = (Stamp) o;
         return Double.compare(stamp.width, width) == 0 &&
-                Double.compare(stamp.hight, hight) == 0 &&
+                Double.compare(stamp.height, height) == 0 &&
                 Objects.equals(name, stamp.name) &&
                 Objects.equals(stamped, stamp.stamped);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(name, stamped, width, hight);
+        return Objects.hash(name, stamped, width, height);
     }
 
     @Override
@@ -53,7 +53,7 @@ public class Stamp {
                 "name='" + name + '\'' +
                 ", stamped='" + stamped + '\'' +
                 ", width=" + width +
-                ", hight=" + hight +
+                ", hight=" + height +
                 '}';
     }
 }

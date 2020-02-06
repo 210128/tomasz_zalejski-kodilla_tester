@@ -13,5 +13,5 @@ repositories {
 apply plugin : "java"
 
 dependencies {
-    testCompile group: 'junit', name: 'junit', version: '4.12'//TODO: tests not needed so far
+    testCompile group: 'junit', name: 'junit', version: '4.12'//
 }
