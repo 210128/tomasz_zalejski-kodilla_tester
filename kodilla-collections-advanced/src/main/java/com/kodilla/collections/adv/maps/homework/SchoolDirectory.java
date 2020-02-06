@@ -21,7 +21,7 @@ public class SchoolDirectory {
         school.put(alexis, alexisSchool);
         school.put(stephen, stephenSchool);
 
-        for(Map.Entry<Principal, School> principalSchoolEntry : school.entrySet())
-            System.out.println("Principal "+principalSchoolEntry.getKey().getFirstName() + " "+principalSchoolEntry.getKey().getLastName()+" -  number of students at school - " + principalSchoolEntry.getValue().getNumberOfStudents());
+        for (Map.Entry<Principal, School> principalSchoolEntry : school.entrySet())
+            System.out.println("Principal " + principalSchoolEntry.getKey().getFirstName() + " " + principalSchoolEntry.getKey().getLastName() + " -  number of students at school - " + principalSchoolEntry.getValue().getNumberOfStudents());
     }
 }
