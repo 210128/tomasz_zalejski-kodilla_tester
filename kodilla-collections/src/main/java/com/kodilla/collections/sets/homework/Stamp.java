@@ -4,7 +4,7 @@ import java.util.Objects;
 
 public class Stamp {
     private String name;
-    private String stamped;/*TODO: Review kdrzazga: Should be boolean*/
+    private String stamped; /*TODO: Review kdrzazga: Should be boolean*/
     private double width;
     private double hight;
 
