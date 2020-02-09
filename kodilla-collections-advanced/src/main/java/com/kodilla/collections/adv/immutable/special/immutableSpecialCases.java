@@ -1,6 +1,6 @@
 package com.kodilla.collections.adv.immutable.special;
 
-public class ImmutableSpecialClases {
+public class immutableSpecialCases {
     public static void main(String[] args) {
         Integer a = 112;
         Integer b = 112;
