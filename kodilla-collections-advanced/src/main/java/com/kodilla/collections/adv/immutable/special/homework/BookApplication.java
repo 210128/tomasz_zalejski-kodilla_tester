@@ -3,15 +3,19 @@ package com.kodilla.collections.adv.immutable.special.homework;
 public class BookApplication {
     public static void main(String[] args) {
         BookManager book = new BookManager();
-        book.createBook("Inferno", "Dan Brown");/*TODO: Review :assign this to a varaible, then compare with others*/
-        book.createBook("Witcher", "Andrzej Sapkowski");
-        book.createBook("Tengu", "Graham Masterton");
-        book.createBook("Inferno", "Dan Brown");
-        book.createBook("Witcher", "Andrzej Sapkowski");
+        Book inferno = book.createBook("Inferno", "Dan Brown");
+        Book witcher = book.createBook("Witcher", "Andrzej Sapkowski");
+        Book tengu = book.createBook("Tengu", "Graham Masterton");
+        Book inferno1 = book.createBook("Inferno", "Dan Brown");
+        Book witcher1 = book.createBook("Witcher", "Andrzej Sapkowski");
 
-book.displayBooks();
-
-/*TODO Review - please remove blank lines and format*/
+        System.out.println(inferno.equals(inferno1));
+        System.out.println(inferno == inferno1);
+        System.out.println(witcher.equals(witcher1));
+        System.out.println(witcher == witcher1);
+        System.out.println(inferno.equals(tengu));
+        System.out.println(inferno == tengu);
+        book.displayBooks();
 
 
     }

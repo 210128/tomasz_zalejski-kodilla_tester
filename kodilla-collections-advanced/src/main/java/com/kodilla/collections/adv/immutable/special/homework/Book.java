@@ -11,14 +11,6 @@ public class Book {
         this.author = author;
     }
 
-    public String getTitle() {
-        return title;
-    }
-
-    public String getAuthor() {
-        return author;
-    }
-
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;

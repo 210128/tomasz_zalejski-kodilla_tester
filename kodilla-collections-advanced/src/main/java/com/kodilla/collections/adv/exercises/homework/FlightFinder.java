@@ -5,8 +5,9 @@ import java.util.List;
 
 public class FlightFinder {
     public List<Flight> findFlightsFrom(String departure) {
+        FlightRepository flightRepository = new FlightRepository();
         ArrayList<Flight> results = new ArrayList<>();
-        for (Flight flight : results)
+        for (Flight flight : flightRepository.getFlightsTable())
             if (departure.equals(flight))
                 results.add(flight);
         return results;
