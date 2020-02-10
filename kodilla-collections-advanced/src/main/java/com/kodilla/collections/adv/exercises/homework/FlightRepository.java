@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class FlightRepository {
-  public static ArrayList<Flight> flights = new ArrayList<>();
+  public ArrayList<Flight> flights = new ArrayList<>();
 
     public FlightRepository(){
         this.flights.add(new Flight("Warsaw", "Gdańsk"));
@@ -14,11 +14,15 @@ public class FlightRepository {
         this.flights.add(new Flight("Warsaw","Berlin"));
         this.flights.add(new Flight("Madrid", "Warsaw"));
     }
-    public static List<Flight> getFlightsTable(){
+    public  List<Flight> getFlightsTable(){
         ArrayList<Flight> flight = new ArrayList<>();
         for(Flight flight1: flights)
             flight.add(flight1);
 
         return flight;
+    }
+
+    public int size() {
+        return flights.size();
     }
 }
