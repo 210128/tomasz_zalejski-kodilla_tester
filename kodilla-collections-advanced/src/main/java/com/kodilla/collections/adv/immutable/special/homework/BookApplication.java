@@ -7,8 +7,9 @@ public class BookApplication {
         book.createBook("Witcher", "Andrzej Sapkowski");
         book.createBook("Tengu", "Graham Masterton");
         book.createBook("Inferno", "Dan Brown");
-        
+        book.createBook("Witcher", "Andrzej Sapkowski");
 
+book.displayBooks();
 
 
 

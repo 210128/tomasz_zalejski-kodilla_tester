@@ -9,8 +9,11 @@ public class BookManager {
 
     public Book createBook(String title, String author) {
         books.add(new Book(title, author));
-
         return new Book(title, author);
     }
 
+    public void displayBooks() {
+        for (Book book : books)
+            System.out.println(book);
+    }
 }
