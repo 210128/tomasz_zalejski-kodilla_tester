@@ -9,14 +9,21 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class FlightFinderTestSuite {
     @Test
-    public void testFindFlightsFrom(){
+    public void testFindFlightsFrom() {
         FlightFinder flightFinder = new FlightFinder();
         List<Flight> result = flightFinder.findFlightsFrom("Warsaw");
         List<Flight> expectedList = new ArrayList<>();
-expectedList.add(new Flight("Warsaw", "Gdańsk"));
-expectedList.add(new Flight("Warsaw","Berlin"));
-assertEquals(expectedList, result);
-
+        expectedList.add(new Flight("Warsaw", "Gdańsk"));
+        expectedList.add(new Flight("Warsaw", "Berlin"));
+        assertEquals(expectedList, result);
     }
 
+    @Test
+    public void testFindFlightsTo() {
+        FlightFinder flightFinder = new FlightFinder();
+        List<Flight> result = flightFinder.findFlightsTo("Berlin");
+        List<Flight> expectedList = new ArrayList<>();
+        expectedList.add(new Flight("Warsaw", "Berlin"));
+        assertEquals(expectedList, result);
+    }
 }

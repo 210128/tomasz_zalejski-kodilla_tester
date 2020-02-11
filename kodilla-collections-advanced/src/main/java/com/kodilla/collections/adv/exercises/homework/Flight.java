@@ -9,6 +9,10 @@ public class Flight {
         this.arrival = arrival;
     }
 
+    public Flight() {
+
+    }
+
     @Override
     public String toString() {
         return "Flight{" +
