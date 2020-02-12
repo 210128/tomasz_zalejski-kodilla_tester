@@ -21,9 +21,9 @@ class FlightFinderTestSuite {
     @Test
     public void testFindFlightsTo() {
         FlightFinder flightFinder = new FlightFinder();
-        List<Flight> result = flightFinder.findFlightsTo("Berlin");
+        List<Flight> result = flightFinder.findFlightsTo("Madrid");
         List<Flight> expectedList = new ArrayList<>();
-        expectedList.add(new Flight("Warsaw", "Berlin"));
+        expectedList.add(new Flight("Berlin", "Madrid"));
         assertEquals(expectedList, result);
     }
 }

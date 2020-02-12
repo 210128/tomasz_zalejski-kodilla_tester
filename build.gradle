@@ -6,15 +6,15 @@ group 'com.kodilla'
 version '1.0-SNAPSHOT'
 
 sourceCompatibility = 1.8
-
+test {
+    useJUnitPlatform()
+}
 repositories {
     mavenCentral()
 }
-apply plugin : "java"
+
 
 dependencies {
-    testCompile group: 'junit', name: 'junit', version: '4.12'//TODO: Review: wrong import.
-    // FlightFinderTestSuite uses JUnit5 (jupiter)
-    // Import junit-jupiter according to https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api/5.6.0
-    
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.3.1'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.3.1'
 }
