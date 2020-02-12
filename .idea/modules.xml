@@ -25,8 +25,12 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-collections/kodilla-course.kodilla-collections.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-collections/kodilla-course.kodilla-collections.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-collections/kodilla-course.kodilla-collections.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-collections/kodilla-course.kodilla-collections.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-intro/kodilla-course.kodilla-intro.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-intro/kodilla-course.kodilla-intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-stream/kodilla-course.kodilla-stream.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-stream/kodilla-course.kodilla-stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-stream/kodilla-course.kodilla-stream.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-stream/kodilla-course.kodilla-stream.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-stream/kodilla-course.kodilla-stream.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-stream/kodilla-course.kodilla-stream.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-course.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-course.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-course.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-course.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-stream.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/tomasz_zalejski-kodilla_tester.iml" filepath="$PROJECT_DIR$/.idea/tomasz_zalejski-kodilla_tester.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-intro/tomasz_zalejski-kodilla_tester.kodilla-course.kodilla-intro.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-intro/tomasz_zalejski-kodilla_tester.kodilla-course.kodilla-intro.iml" />
     </modules>

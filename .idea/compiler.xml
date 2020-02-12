@@ -16,6 +16,8 @@
       <module name="kodilla-course.kodilla-collections-advanced.test" target="1.8" />
       <module name="kodilla-course.kodilla-collections.main" target="1.8" />
       <module name="kodilla-course.kodilla-collections.test" target="1.8" />
+      <module name="kodilla-course.kodilla-stream.main" target="1.8" />
+      <module name="kodilla-course.kodilla-stream.test" target="1.8" />
       <module name="kodilla-course.main" target="1.8" />
       <module name="kodilla-course.test" target="1.8" />
     </bytecodeTargetLevel>
