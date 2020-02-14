@@ -10,8 +10,7 @@ public class UsersManager {
                 .filter(u -> u.getGroup().equals("Chemists"))
                 .map(UsersManager::getUserName)
                 .collect(Collectors.toList());
-                 System.out.println(usernames);
-
+        System.out.println(usernames);
     }
 
     public static String getUserName(User user) {

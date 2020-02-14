@@ -4,14 +4,15 @@
     <option name="SCOPE_TYPE" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ca5f81d-5e0a-4af9-bd61-511850fd8878" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="4ca5f81d-5e0a-4af9-bd61-511850fd8878" name="Default Changelist" comment="fixed homework 5.4">
+      <change afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/optional/OptionalExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/optional/homework/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/optional/homework/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/optional/homework/Teacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/exercises/homework/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/exercises/homework/Flight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/exercises/homework/FlightFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/exercises/homework/FlightFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/exercises/homework/FlightRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/exercises/homework/FlightRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-collections-advanced/src/test/java/com/kodilla/collections/adv/exercises/homework/FlightRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/test/java/com/kodilla/collections/adv/exercises/homework/FlightRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/UsersManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/UsersManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/UsersRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/UsersRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,13 +153,39 @@
       <recent name="com.kodilla.collections.adv.maps.complex" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FlightFinderTestSuite">
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.optional.homework.Application" />
+      <module name="kodilla-course.kodilla-stream.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kodilla.optional.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FlightFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kodilla.collections.adv.exercises.homework.FlightFinder" />
       <module name="kodilla-course.kodilla-collections-advanced.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.kodilla.collections.adv.exercises.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionalExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.optional.OptionalExample" />
+      <module name="kodilla-course.kodilla-stream.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kodilla.optional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,22 +208,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlightFinderTestSuite.testFindFlightsFrom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="kodilla-course.kodilla-collections-advanced.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kodilla.collections.adv.exercises.homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.kodilla.collections.adv.exercises.homework" />
-      <option name="MAIN_CLASS_NAME" value="com.kodilla.collections.adv.exercises.homework.FlightFinderTestSuite" />
-      <option name="METHOD_NAME" value="testFindFlightsFrom" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="FlightFinderTestSuite.testFindFlightsTo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kodilla-course.kodilla-collections-advanced.test" />
       <extension name="coverage">
@@ -213,35 +224,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlightRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="kodilla-course.kodilla-collections-advanced.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kodilla.collections.adv.exercises.homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.kodilla.collections.adv.exercises.homework" />
-      <option name="MAIN_CLASS_NAME" value="com.kodilla.collections.adv.exercises.homework.FlightRepositoryTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="JUnit.FlightRepositoryTest" />
-      <item itemvalue="JUnit.FlightFinderTestSuite.testFindFlightsTo" />
-      <item itemvalue="JUnit.FlightFinderTestSuite.testFindFlightsFrom" />
       <item itemvalue="Application.FlightFinder" />
+      <item itemvalue="Application.OptionalExample" />
+      <item itemvalue="Application.Application" />
+      <item itemvalue="JUnit.FlightFinderTestSuite.testFindFlightsTo" />
       <item itemvalue="JUnit.FlightFinderTestSuite" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.OptionalExample" />
         <item itemvalue="JUnit.FlightFinderTestSuite" />
         <item itemvalue="JUnit.FlightFinderTestSuite.testFindFlightsTo" />
         <item itemvalue="Application.FlightFinder" />
-        <item itemvalue="JUnit.FlightFinderTestSuite.testFindFlightsFrom" />
-        <item itemvalue="JUnit.FlightRepositoryTest" />
       </list>
     </recent_temporary>
   </component>
@@ -436,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581547851996</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="fixed homework 5.4">
+      <created>1581551080693</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1581551080693</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -476,7 +479,8 @@
     <MESSAGE value="homework 5.4 fixed?" />
     <MESSAGE value="homework 5.5 not working" />
     <MESSAGE value="homework 6.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 6.1" />
+    <MESSAGE value="fixed homework 5.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed homework 5.4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="179" key="#Inspections" timestamp="1580309354027">
@@ -503,10 +507,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="727" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580303216161" />
-    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1581548607183">
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1581629323297">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581548607183" />
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581629323297" />
     <state x="808" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581351136174">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -531,10 +535,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="707" y="358" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1581095581677" />
-    <state x="871" y="140" key="CommitChangelistDialog2" timestamp="1581547850362">
+    <state x="871" y="140" key="CommitChangelistDialog2" timestamp="1581659464545">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="871" y="140" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581547850362" />
+    <state x="871" y="140" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581659464545" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1580552066628">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -543,22 +547,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581016519110" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1581551036158">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1581633496233">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581551036158" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1581551036158">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581633496233" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1581633496233">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581551036158" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1581551036158">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581633496233" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1581633496233">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581551036158" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1581551036158">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581633496233" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1581633496233">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581551036158" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581633496233" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1581549855607">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -591,10 +595,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="578" y="28" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581447651657" />
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1581452143395">
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1581551089812">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581452143395" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581551089812" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1580552066628">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

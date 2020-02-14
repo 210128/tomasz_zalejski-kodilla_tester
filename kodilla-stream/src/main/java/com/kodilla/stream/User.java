@@ -3,10 +3,10 @@ package com.kodilla.stream;
 import java.util.Objects;
 
 public class User {
-private String username;
-private int age;
-private int numberOfPosts;
-private String group;
+    private String username;
+    private int age;
+    private int numberOfPosts;
+    private String group;
 
     public User(String username, int age, int numberOfPosts, String group) {
         this.username = username;
