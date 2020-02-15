@@ -6,7 +6,8 @@ import java.util.List;
 public class FlightFinder {
     public List<Flight> findFlightsFrom(String departure) {
         List<Flight> results = new ArrayList<>();
-        for (Flight flight : FlightRepository.getFlightsTable()) {
+        for (Flight flight : FlightRepository.getFlightsTable()) {/*TODO Review: When getFlightsTable() is made non-static, use lazy creation
+        new FlightRepository().getFlightsTable()/*/
             if (flight.getDeparture().equals(departure))
                 results.add(flight);
         }

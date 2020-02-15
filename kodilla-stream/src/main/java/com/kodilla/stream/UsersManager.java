@@ -7,7 +7,10 @@ public class UsersManager {
     public static void main(String[] args) {
         List<String> usernames = UsersRepository.getUserList()
                 .stream()
-                .filter(u -> u.getGroup().equals("Chemists"))
+                .filter(u -> u.getGroup().equals("Chemists")) /* TODO: Review: If 'u' or 'u.getGroup()' is null this
+                would cause NullPointerException
+                It's better to use "Chemists".equals(u.getGroup())
+                */
                 .map(UsersManager::getUserName)
                 .collect(Collectors.toList());
         System.out.println(usernames);
