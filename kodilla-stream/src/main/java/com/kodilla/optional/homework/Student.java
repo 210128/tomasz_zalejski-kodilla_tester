@@ -16,11 +16,4 @@ public class Student {
     public Teacher getTeacher() {
         return teacher;
     }
-
-    @Override
-    public String toString() {
-        return "Student " +
-                "name " + name +
-                ", teacher " + teacher;
-    }
 }

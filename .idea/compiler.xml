@@ -8,6 +8,14 @@
       <module name="com.kodilla.kodilla-collections-advanced.test" target="1.8" />
       <module name="com.kodilla.kodilla-collections.main" target="1.8" />
       <module name="com.kodilla.kodilla-collections.test" target="1.8" />
+      <module name="com.kodilla.kodilla-course.kodilla-basic-tests.main" target="1.8" />
+      <module name="com.kodilla.kodilla-course.kodilla-basic-tests.test" target="1.8" />
+      <module name="com.kodilla.kodilla-course.kodilla-collections-advanced.main" target="1.8" />
+      <module name="com.kodilla.kodilla-course.kodilla-collections-advanced.test" target="1.8" />
+      <module name="com.kodilla.kodilla-course.kodilla-collections.main" target="1.8" />
+      <module name="com.kodilla.kodilla-course.kodilla-collections.test" target="1.8" />
+      <module name="com.kodilla.kodilla-course.kodilla-stream.main" target="1.8" />
+      <module name="com.kodilla.kodilla-course.kodilla-stream.test" target="1.8" />
       <module name="com.kodilla.kodilla-course.main" target="1.8" />
       <module name="com.kodilla.kodilla-course.test" target="1.8" />
       <module name="kodilla-course.kodilla-basic-tests.main" target="1.8" />
