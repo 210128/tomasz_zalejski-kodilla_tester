@@ -6,20 +6,21 @@ import com.kodilla.stream.UsersRepository;
 public class ForumStats {
     public static void main(String[] args) {
 
-        double avg = UsersRepository.getUserList()
+        double averageNumOfPostsForUsersAgeUp40 = UsersRepository.getUserList()
                 .stream()
-                .map(n -> n.getAge())
-                .filter(ag -> ag >= 40)
-                .map(ForumStats::getUserNumberOfPosts)
-                .mapToInt(n -> n)
+                .filter(ag -> ag.getAge() >= 40 && ag.getNumberOfPosts() != 0)
+                .mapToInt(User::getNumberOfPosts)
                 .average()
                 .getAsDouble();
-        System.out.println(avg);
+        System.out.println("Average number of posts for users whose age is greater than or equal to 40: " + averageNumOfPostsForUsersAgeUp40);
 
+        double averageNumOfPostsForUsersAgeLess40 = UsersRepository.getUserList()
+                .stream()
+                .filter(ag -> ag.getAge() < 40 && ag.getNumberOfPosts() != 0)
+                .mapToInt(User::getNumberOfPosts)
+                .average()
+                .getAsDouble();
+        System.out.println("Average number of posts for users whose age is less than 40: " + averageNumOfPostsForUsersAgeLess40);
 
-    }
-
-    private  int getUserNumberOfPosts(User user) {
-        return user.getNumberOfPosts();
     }
 }
