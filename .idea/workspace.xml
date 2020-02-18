@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ca5f81d-5e0a-4af9-bd61-511850fd8878" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/kodilla-stream/src/test/java/com/kodilla/exception/AirportRepositoryTestSuite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +62,9 @@
       <list>
         <option value="Interface" />
         <option value="Enum" />
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -75,11 +78,6 @@
         <option value="git@github.com:210128/tomasz_zalejski-kodilla_tester.git" />
       </set>
     </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="960" />
-    <option name="width" value="960" />
-    <option name="height" value="1032" />
   </component>
   <component name="ProjectId" id="1Ww3TxjmeNDNiUL4wQ6YUVuNIPs" />
   <component name="ProjectLevelVcsManager">
@@ -99,7 +97,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581346501941" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
@@ -110,6 +110,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.kodilla.exception" />
       <recent name="com.kodilla.collections.adv.exercises.homework" />
       <recent name="com.kodilla.collections.adv.exercises.dictionary" />
     </key>
@@ -118,6 +119,7 @@
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+      <recent name="groovy.util.GroovyTestCase" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.kodilla.collections.lists" />
@@ -125,7 +127,7 @@
       <recent name="com.kodilla.collections.adv.maps.complex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ForumStats">
+  <component name="RunManager" selected="JUnit.AirportRepositoryTestSuite.isAirportInUSe">
     <configuration name="AverageAge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kodilla.stream.AverageAge" />
       <module name="com.kodilla.kodilla-course.kodilla-stream.main" />
@@ -152,19 +154,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kodilla.stream.homework.TaskManager" />
-      <module name="com.kodilla.kodilla-course.kodilla-stream.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kodilla.stream.homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UsersManager (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kodilla.stream.UsersManager" />
       <module name="com.kodilla.kodilla-course.kodilla-stream.main" />
@@ -178,35 +167,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlightFinderTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.kodilla.kodilla-course.kodilla-collections-advanced.test" />
+    <configuration name="AirportRepositoryTestSuite.isAirportInUSe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.kodilla.kodilla-course.kodilla-stream.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kodilla.collections.adv.exercises.homework.*" />
+          <option name="PATTERN" value="com.kodilla.exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.kodilla.collections.adv.exercises.homework" />
-      <option name="MAIN_CLASS_NAME" value="com.kodilla.collections.adv.exercises.homework.FlightFinderTestSuite" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.kodilla.exception" />
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.exception.AirportRepositoryTestSuite" />
+      <option name="METHOD_NAME" value="isAirportInUSe" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AirportRepositoryTestSuite.testIsAirportInUse_withException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.kodilla.kodilla-course.kodilla-stream.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kodilla.exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kodilla.exception" />
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.exception.AirportRepositoryTestSuite" />
+      <option name="METHOD_NAME" value="testIsAirportInUse_withException" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.UsersManager (1)" />
-      <item itemvalue="Application.TaskManager" />
       <item itemvalue="Application.AverageAge" />
       <item itemvalue="Application.ForumStats" />
-      <item itemvalue="JUnit.FlightFinderTestSuite" />
+      <item itemvalue="JUnit.AirportRepositoryTestSuite.isAirportInUSe" />
+      <item itemvalue="JUnit.AirportRepositoryTestSuite.testIsAirportInUse_withException" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AirportRepositoryTestSuite.isAirportInUSe" />
+        <item itemvalue="JUnit.AirportRepositoryTestSuite.testIsAirportInUse_withException" />
         <item itemvalue="Application.ForumStats" />
         <item itemvalue="Application.AverageAge" />
         <item itemvalue="Application.UsersManager (1)" />
-        <item itemvalue="Application.TaskManager" />
-        <item itemvalue="JUnit.FlightFinderTestSuite" />
       </list>
     </recent_temporary>
   </component>
@@ -436,7 +442,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581894464765</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="homework 6.4">
+      <created>1582059661063</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1582059661063</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -495,6 +508,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="homework 6.4" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="557" y="170" key="#AirportRepositoryTestSuite.testIsAirportInUse_withException" timestamp="1582062791666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="557" y="170" key="#AirportRepositoryTestSuite.testIsAirportInUse_withException/0.0.1920.1040@0.0.1920.1040" timestamp="1582062791666" />
     <state x="552" y="179" key="#Inspections" timestamp="1580309354027">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -547,34 +564,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="707" y="358" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1581095581677" />
-    <state x="837" y="140" key="CommitChangelistDialog2" timestamp="1582059498147">
+    <state x="837" y="140" key="CommitChangelistDialog2" timestamp="1582059660565">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="837" y="140" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582059498147" />
+    <state x="837" y="140" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582059660565" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1580552066628">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580552066628" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1581016519110">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1582063591066">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581016519110" />
-    <state width="938" height="319" key="GridCell.Tab.0.bottom" timestamp="1582059592491">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582063591066" />
+    <state width="929" height="316" key="GridCell.Tab.0.bottom" timestamp="1582063312923">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="319" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582059592491" />
-    <state width="938" height="319" key="GridCell.Tab.0.center" timestamp="1582059592491">
+    <state width="929" height="316" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582063312923" />
+    <state width="929" height="316" key="GridCell.Tab.0.center" timestamp="1582063312923">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="319" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582059592491" />
-    <state width="938" height="319" key="GridCell.Tab.0.left" timestamp="1582059592490">
+    <state width="929" height="316" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582063312922" />
+    <state width="929" height="316" key="GridCell.Tab.0.left" timestamp="1582063312922">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="319" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582059592490" />
-    <state width="938" height="319" key="GridCell.Tab.0.right" timestamp="1582059592491">
+    <state width="929" height="316" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582063312922" />
+    <state width="929" height="316" key="GridCell.Tab.0.right" timestamp="1582063312923">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="319" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582059592491" />
+    <state width="929" height="316" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582063312923" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1581713150102">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -607,10 +624,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="578" y="28" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581700514264" />
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1581894469145">
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1582059685405">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581894469145" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582059685405" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1580552066628">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -623,10 +640,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582059635840" />
-    <state x="690" y="239" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1581353384060">
+    <state x="690" y="239" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582063493133">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="239" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581353384060" />
+    <state x="690" y="239" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582063493133" />
     <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1581095279595">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
