@@ -18,12 +18,12 @@ public class Warehouse {
                 .filter(o -> o.getNumber().equals(number))
                 .findFirst();
 
-       /* if (orders.stream()
+        if (orders.stream()
                 .filter(o -> o.getNumber().equals(number))
                 .findFirst().isEmpty())
 
             throw new OrderDoesntExistException();
-*/
+
         return order.get();
                 /*
 
