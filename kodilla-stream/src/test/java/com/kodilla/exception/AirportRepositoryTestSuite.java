@@ -1,12 +1,10 @@
 package com.kodilla.exception;
 
+import org.junit.jupiter.api.Test;//JUnit 5 used
 
-import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
 
-import static org.junit.jupiter.api.Assertions.assertFalse;
-import static org.junit.jupiter.api.Assertions.assertTrue;
-
-    class AirportRepositoryTestSuite {
+class AirportRepositoryTestSuite {
 
         @Test
         public void isAirportInUSe() throws AirportNotFoundException {
@@ -18,13 +16,21 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
             assertTrue(isWarsawInUse);
         }
 
-        @Test(expected = AirportNotFoundException.class)
-        private void testIsAirportInUse_withException() throws AirportNotFoundException {
+      //TODO: Review -> @Test(expected = is not valid in JUnit 5
+
+      //  @Test(expected = AirportNotFoundException.class)
+
+        @Test
+        /*Tests to run cannot be private*/
+        public void testIsAirportInUse_withException() throws AirportNotFoundException {
+
             //given
             AirportRepository airportRepository = new AirportRepository();
             //when
-            boolean isWarsawInUse = airportRepository.isAirportInUSe("Vienna");
+            //boolean isWarsawInUse =
+            //
+            assertThrows(AirportNotFoundException.class, () -> airportRepository.isAirportInUSe("Vienna"));
             //then
-            assertFalse(isWarsawInUse);
+            //assertFalse(isWarsawInUse);
         }
     }

@@ -12,6 +12,8 @@ public class Warehouse {
 
     public Order getOrder(String number) throws OrderDoesntExistException {
         Order order1 = null;
+        /*TODO Review Stream should be used*/
+
         for (Order order : orders)
             if (order.getNumber().equals(number)) {
                 order1 = order;
